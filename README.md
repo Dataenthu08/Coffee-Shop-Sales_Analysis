@@ -1,5 +1,9 @@
 # Coffee Shop Sales Analysis
 
+## Dashboard Preview
+
+<img width="1108" height="720" alt="executive_analysis" src="https://github.com/user-attachments/assets/b1fdec5e-6375-4177-b4ad-7b09a3f0223b" />
+
 ## Project Overview
 
 This project analyses **149K+ coffee shop transactions** to understand revenue performance, sales trends, store performance, and product-level contribution.
@@ -25,10 +29,6 @@ The analysis focuses on questions such as:
 | Average Order Value |       **$4.69** |
 | Average Unit Price  |       **$3.38** |
 | Transaction Records |       **149K+** |
-
-## Dashboard Preview
-
-![Coffee Shop Sales Dashboard]<img width="1108" height="720" alt="executive_analysis" src="https://github.com/user-attachments/assets/b1fdec5e-6375-4177-b4ad-7b09a3f0223b" />
 
 
 ## Analysis
