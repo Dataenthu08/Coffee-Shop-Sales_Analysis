@@ -1,14 +1,15 @@
 # Coffee Shop Sales Analysis
 
-## Dashboard Preview
-
-<img width="1108" height="720" alt="executive_analysis" src="https://github.com/user-attachments/assets/b1fdec5e-6375-4177-b4ad-7b09a3f0223b" />
 
 ## Project Overview
 
 This project analyses **149K+ coffee shop transactions** to understand revenue performance, sales trends, store performance, and product-level contribution.
 
 The analysis was carried out using **SQL and Power BI**, with the goal of turning transaction-level data into clear business insights and an interactive dashboard.
+
+## Dashboard Preview
+
+<img width="1108" height="720" alt="executive_analysis" src="https://github.com/user-attachments/assets/b1fdec5e-6375-4177-b4ad-7b09a3f0223b" />
 
 ## Business Questions
 
