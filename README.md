@@ -1,4 +1,4 @@
-## Power BI Dashboard
+## Power BI Dashboards
 
 The Power BI report contains four pages covering overall performance, product performance, store performance, and time-based sales patterns.
 
