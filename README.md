@@ -52,6 +52,7 @@ The Top 10 products were identified based on revenue contribution to understand 
 
 ## Tools & Technologies
 
+* **Excel** - Data cleaning
 * **SQL** — Data analysis and querying
 * **Power BI** — Dashboard development and visualization
 * **DAX** — Measures and KPI calculations
