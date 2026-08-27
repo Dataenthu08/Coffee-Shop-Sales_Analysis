@@ -5,7 +5,7 @@
 
 This project analyses **149K+ coffee shop transactions** to understand revenue performance, sales trends, store performance, and product-level contribution.
 
-The analysis was carried out using **SQL and Power BI**, with the goal of turning transaction-level data into clear business insights and an interactive dashboard.
+The analysis was carried out using **Excel, SQL and Power BI**, with the goal of turning transaction-level data into clear business insights and an interactive dashboard.
 
 ## Dashboard Preview
 
@@ -26,10 +26,10 @@ The analysis focuses on questions such as:
 | KPI                 |           Value |
 | ------------------- | --------------: |
 | Total Revenue       | **$698,812.33** |
-| Total Transactions  |     **214,470** |
+| Total Transactions  |     **149,116** |
 | Average Order Value |       **$4.69** |
 | Average Unit Price  |       **$3.38** |
-| Transaction Records |       **149K+** |
+| Total Items Sold    |     **214,470** |
 
 
 ## Analysis
@@ -85,6 +85,10 @@ The analysis provides a consolidated view of coffee shop sales performance acros
 
 The dashboard can be used by business teams to quickly identify revenue trends, compare store performance, and understand the products and categories contributing to sales.
 
+## Note: 
+
+Monetary values are presented in the currency used in the source dataset.
+
 ## Project Goal
 
 The objective of this project was to demonstrate an end-to-end **Data Analyst workflow**:
@@ -96,10 +100,6 @@ The objective of this project was to demonstrate an end-to-end **Data Analyst wo
 ## Power BI Dashboards
 
 The Power BI report contains four pages covering overall performance, product performance, store performance, and time-based sales patterns.
-
-### Executive Overview
-
-<img width="1108" height="720" alt="executive_analysis" src="https://github.com/user-attachments/assets/bfc88a7e-8d0e-4c0c-b852-f4cf975afed8" />
 
 
 ### Product Analysis
