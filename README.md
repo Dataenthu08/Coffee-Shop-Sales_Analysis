@@ -5,7 +5,7 @@
 
 This project analyses **149K+ coffee shop transactions** to understand revenue performance, sales trends, store performance, and product-level contribution.
 
-The analysis was carried out using **Excel, SQL and Power BI**, with the goal of turning transaction-level data into clear business insights and an interactive dashboard.
+The analysis was carried out using **Excel, SQL, and Power BI**, with the goal of turning transaction-level data into clear business insights and an interactive dashboard.
 
 ## Dashboard Preview
 
