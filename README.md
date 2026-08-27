@@ -23,13 +23,13 @@ The analysis focuses on questions such as:
 
 ## Key Performance Indicators
 
-| KPI                 |           Value |
-| ------------------- | --------------: |
-| Total Revenue       | **$698,812.33** |
-| Total Transactions  |     **149,116** |
-| Average Order Value |       **$4.69** |
-| Average Unit Price  |       **$3.38** |
-| Total Items Sold    |     **214,470** |
+| KPI | Value |
+|---|---:|
+| Total Revenue | **$698,812.33** |
+| Total Transactions | **149,116** |
+| Total Items Sold | **214,470** |
+| Average Order Value | **$4.69** |
+| Average Unit Price | **$3.38** |
 
 
 ## Analysis
@@ -79,12 +79,31 @@ Key fields include:
 
 The dataset was checked for missing values and duplicate records before analysis.
 
+**Analysis Period:** January 2023 – June 2023
 
 ## Key Takeaways
 
 The analysis provides a consolidated view of coffee shop sales performance across time, stores, categories, and products.
 
 The dashboard can be used by business teams to quickly identify revenue trends, compare store performance, and understand the products and categories contributing to sales.
+
+## Key Findings
+
+- **June recorded the highest monthly revenue at approximately $166K**, while February was the lowest at approximately $76K. June revenue was more than twice February revenue, showing a strong increase in sales over the six-month period.
+
+- **Hell's Kitchen was the highest-revenue store**, generating approximately **$236K** in revenue. The three stores were relatively close in overall performance, indicating that revenue was not concentrated in a single location.
+
+- **Coffee was the largest revenue-generating product category**, contributing approximately **$270K** in sales. Tea and Bakery followed as the next major contributors.
+
+- **Sustainably Grown Lg was the top individual product by revenue**, generating approximately **$22K** during the analysis period.
+
+- **10 AM was the busiest sales hour**, with approximately **18K transactions**, while 8 PM had only around **600 transactions**. This shows a clear concentration of sales during daytime hours.
+
+- **Coffee Beans had a significantly higher average order value than the overall business average**, with an AOV of approximately **$22 compared with the overall $4.69**. This indicates that although coffee beans may have lower transaction volume, they generate substantially higher-value purchases.
+
+- **Revenue increased substantially through the first half of 2023**, with the strongest performance occurring toward the later months of the analysis period.
+
+
 
 ## Note: 
 
